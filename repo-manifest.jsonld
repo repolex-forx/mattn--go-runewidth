@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mattn/go-runewidth/commit/99da42750b5dcb798c068e8f1817cea66a220864",
       "git:hexsha": "99da42750b5dcb798c068e8f1817cea66a220864",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T04:00:14.867959+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mattn/go-runewidth/commit/d6bea18f789704b5f83375793155289da36a3c7f",
